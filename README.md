@@ -28,7 +28,7 @@
 <br>
 
 <div align="center">
-  <a href="https://deepface.dev?source=deepface_repo" target="_blank"><img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F-deepface%20in%20cloud-00BFFF?style=flat&labelColor=555555" alt="deepface cloud"/></a>
+  <a href="https://deepface.dev?source=deepface_repo" target="_blank"><img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F-deepface%20cloud-00BFFF?style=flat&labelColor=555555" alt="deepface cloud"/></a>
 </div>
 
 </div>
